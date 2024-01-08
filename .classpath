@@ -3,5 +3,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_271"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="Observer_Design_Pattern"/>
+	<classpathentry kind="src" path="Decorator_Design_Pattern"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
