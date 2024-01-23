@@ -6,5 +6,6 @@
 	<classpathentry kind="src" path="Decorator_Design_Pattern"/>
 	<classpathentry kind="src" path="Factory Pattern"/>
 	<classpathentry kind="src" path="Tic Tac Toe Game"/>
+	<classpathentry kind="src" path="Snake Ladder Game"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
