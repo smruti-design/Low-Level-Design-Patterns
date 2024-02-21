@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="Tic Tac Toe Game"/>
 	<classpathentry kind="src" path="Snake Ladder Game"/>
 	<classpathentry kind="src" path="Hotel Management"/>
+	<classpathentry kind="src" path="Builder Design Pattern"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
