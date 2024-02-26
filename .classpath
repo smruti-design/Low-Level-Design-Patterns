@@ -11,5 +11,6 @@
 	<classpathentry kind="src" path="Builder Design Pattern"/>
 	<classpathentry kind="src" path="Null Object Pattern"/>
 	<classpathentry kind="src" path="Command Design Pattern"/>
+	<classpathentry kind="src" path="Iterator Design Pattern"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
