@@ -15,5 +15,6 @@
 	<classpathentry kind="src" path="Template Design Pattern"/>
 	<classpathentry kind="src" path="Chain Responsibility Design Pattern"/>
 	<classpathentry kind="src" path="Mediator Design Pattern"/>
+	<classpathentry kind="src" path="Interpretor Design Pattern"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
