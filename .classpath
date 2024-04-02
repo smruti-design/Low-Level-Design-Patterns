@@ -19,5 +19,6 @@
 	<classpathentry kind="src" path="Proxy Design Pattern"/>
 	<classpathentry kind="src" path="Adapter Design Pattern"/>
 	<classpathentry kind="src" path="Bridge Design Pattern"/>
+	<classpathentry kind="src" path="Composite Design Pattern"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
